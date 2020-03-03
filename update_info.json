@@ -1,6 +1,7 @@
 {
     "appVersion": "1.0.0",
     "appVersonCode": 0,
+    "isForce": false,
     "downloadUrl": "http://www.baidu.com",
     "log": "www.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com\nwww.baidu.com"
 }
